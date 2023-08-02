@@ -9,3 +9,4 @@ def subtraction(num1, num2):
 def multiplication(num1, num2):
     """This function takes an input of two numbers and returns its product"""
     return num1 * num2
+
